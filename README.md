@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussn&theme=nord_dark)
 ![commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheussn&theme=nord_dark)
 ![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussn&theme=nord_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheussn&theme=nord_dark)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheussn&theme=nord_dark&utcOffset=8)
+<!-- ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheussn&theme=nord_dark) -->
+<!-- ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheussn&theme=nord_dark&utcOffset=8) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussn&theme=nord&langs_count=6) -->
 <!-- ![Teste](https://github-readme-stats.vercel.app/api?username=matheussn&show_icons=true&hide_border=true&theme=nord&count_private=true) -->
